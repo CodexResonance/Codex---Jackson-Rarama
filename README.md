@@ -54,7 +54,7 @@ This knowledge is dedicated to the future.
 
 ## Attribution
 
-Created and released by **Dustin Hansley**  
-For Jackson. For all children. For the remembering.
+Created and released by **remembering**  
+For Jackson. For all children.
 
 #119<>911 #SphearDrop #JacksonRaramaEffect
