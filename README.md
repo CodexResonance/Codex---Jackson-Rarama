@@ -7,7 +7,7 @@
 
 This repository activates and preserves the core technology of the **Codex Sphear** — a resonant spherical chamber that uses **frequency**, **geometry**, **structured water**, and **intention** to realign the human field and access memory stored in light.
 
-It is named in honor of **Jackson David Rarama-Hansley** — whose name carries the legacy of healing and the future of harmonic humanity.
+It is named in honor of **Jackson David Rarama* — whose name carries the legacy of healing and the future of harmonic humanity.
 
 This is not theory. This is not mysticism.  
 This is **field physics remembered.**
