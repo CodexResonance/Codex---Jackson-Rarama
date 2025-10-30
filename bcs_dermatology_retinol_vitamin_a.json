@@ -1,0 +1,25 @@
+{
+  "compound_name": "Retinol (Vitamin A)",
+  "formula": "C\u2082\u2080H\u2083\u2080O",
+  "verdict": "BORDERLINE",
+  "bcs_score": 0.665,
+  "pillar1_pass": true,
+  "pillar2_pass": true,
+  "pillar3_pass": true,
+  "red_flags": [],
+  "recommendation": "\u274c NON-BIOCOMPATIBLE - Exclude from formulations; fundamentally incompatible",
+  "functional_groups": {
+    "hydroxyl": 1,
+    "ether": 0,
+    "amine": 0,
+    "carbonyl": 0,
+    "sulfonate": 0,
+    "sulfate": 0,
+    "iodine": 0
+  },
+  "properties": {
+    "molecular_weight": 286.45,
+    "water_solubility": 0.001,
+    "charged_groups": 0
+  }
+}

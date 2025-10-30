@@ -1,0 +1,27 @@
+{
+  "compound_name": "Hyaluronic Acid (Low MW)",
+  "formula": "(C\u2081\u2084H\u2082\u2081NO\u2081\u2081)\u2099",
+  "verdict": "PASS",
+  "bcs_score": 0.7,
+  "pillar1_pass": true,
+  "pillar2_pass": true,
+  "pillar3_pass": true,
+  "red_flags": [
+    "\u26a0\ufe0f CRITICAL: Scale mismatch - High MW polymer with charged groups"
+  ],
+  "recommendation": "\u2705 BIOCOMPATIBLE - Safe for use in formulations aligned with Codex principles",
+  "functional_groups": {
+    "hydroxyl": 8,
+    "ether": 2,
+    "amine": 0,
+    "carbonyl": 2,
+    "sulfonate": 0,
+    "sulfate": 0,
+    "iodine": 0
+  },
+  "properties": {
+    "molecular_weight": 50000,
+    "water_solubility": 1000.0,
+    "charged_groups": 1
+  }
+}

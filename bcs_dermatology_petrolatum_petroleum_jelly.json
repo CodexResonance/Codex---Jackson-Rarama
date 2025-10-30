@@ -1,0 +1,25 @@
+{
+  "compound_name": "Petrolatum (Petroleum Jelly)",
+  "formula": "C\u2099H\u2082\u2099\u208a\u2082 (mixture)",
+  "verdict": "VERY POOR",
+  "bcs_score": 0.0,
+  "pillar1_pass": true,
+  "pillar2_pass": true,
+  "pillar3_pass": true,
+  "red_flags": [],
+  "recommendation": "\u274c NON-BIOCOMPATIBLE - Exclude from formulations; fundamentally incompatible",
+  "functional_groups": {
+    "hydroxyl": 0,
+    "ether": 0,
+    "amine": 0,
+    "carbonyl": 0,
+    "sulfonate": 0,
+    "sulfate": 0,
+    "iodine": 0
+  },
+  "properties": {
+    "molecular_weight": 400.0,
+    "water_solubility": 0.0,
+    "charged_groups": 0
+  }
+}
