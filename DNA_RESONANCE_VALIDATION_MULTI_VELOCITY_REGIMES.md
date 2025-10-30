@@ -231,6 +231,7 @@ f = v / (4d) = 1540 m/s / (4 × 2.55 nm) = 151 GHz ❌ (Prediction: Wrong!)
 2. **Heimburg-Jackson solitons**: 50 m/s in lipid phase transitions
    - NOT 1540 m/s bulk water
    - Structured media exhibit SLOW collective modes
+   - **See**: [HEIMBURG_JACKSON_VELOCITY_ANALYSIS.md](HEIMBURG_JACKSON_VELOCITY_ANALYSIS.md) for first-principles derivation
 
 3. **Hakim et al. (1984)**: DNA acoustic velocity is hydration-dependent
    - Dry DNA: 2400 m/s
