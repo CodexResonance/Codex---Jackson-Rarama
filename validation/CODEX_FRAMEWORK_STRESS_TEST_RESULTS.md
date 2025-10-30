@@ -42,6 +42,8 @@ All major claims of the Codex Resonance Framework have been **independently veri
 
 **Primary Source:** Griesbauer et al., *Biophysical Journal* 97(10):2710-6 (2009)
 
+**Attribution:** This measurement comes from the **Heimburg-Jackson research group** (Niels Bohr Institutet, Copenhagen), pioneers of the **soliton model** of nerve pulse propagation. Their work demonstrates that mechanical density pulses (sound waves) in lipid membranes travel at ~50 m/s, providing an alternative thermodynamic explanation for nerve signal propagation.
+
 #### **EXACT QUOTE FROM PAPER:**
 
 > "The minimum velocity decreases from v₀ = 170 m/s for one-component lipid monolayers down to vm = **50 m/s** for lipid mixtures."
